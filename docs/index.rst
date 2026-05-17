@@ -6,7 +6,7 @@ When it comes to secure browsing, email access, and premium features, AOL Deskto
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://myaolgold.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
+       <a href="https://myaolgold.github.io" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with AOL Gold</a>
    </div>
    
 
